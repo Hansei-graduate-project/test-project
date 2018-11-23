@@ -1,6 +1,6 @@
 # test-project
 
-![kakaotalk_20181121_131325075](https://user-images.githubusercontent.com/39250642/48929110-cbb27280-ef28-11e8-8d83-ccf9bbf92299.jpg)
+![kakaotalk_20181121_131325075](https://user-images.githubusercontent.com/39250642/48929143-1cc26680-ef29-11e8-94c1-1d06d57bef27.jpg)
 머신러닝과 영상처리를 이용한 무인계산대팀
 
 일시 : 2018년11월 16일 14:00 ~ 16:40
